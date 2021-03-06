@@ -1,0 +1,7 @@
+git init 
+git status
+git add . 
+git commit -m "Day 2 Task From andrew Magdy"
+git log --oneline
+git remote add master origin https://github.com/AndrewMego/task-Day-2.git
+git push origin master	
